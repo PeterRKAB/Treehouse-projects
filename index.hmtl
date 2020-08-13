@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> Peter Jonssons CV </title>
+    
+    <link rel="stylesheet" href="resume.css">
+    
+  </head>
+
+
 <body>
 
     <div class="main-nav">
@@ -52,4 +63,4 @@
       <p class="copyright">Copyright 2020, Peter Jonsson</p>
     </footer>
   </body>
-  
+  </html>
