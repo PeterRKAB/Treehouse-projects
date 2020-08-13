@@ -1,0 +1,55 @@
+<body>
+
+    <div class="main-nav">
+        <ul class="nav">
+          <li class="name">Råsunda Konsult AB</li>
+          <li><a href="#">Hem</a></li>
+          <li><a href="resume.html">Erfarenhet (CV)</a></li>
+          <li><a href="#">Foto</a></li>
+          <li><a href="#">Kontaktuppgifter</a></li>
+        </ul>
+    </div>
+
+    <header>
+      <img src="https://placeimg.com/400/400/Tech" alt="picture of nature" class="profile-image">
+      <h1 class="tag name">Hej, välkommen till RKABs hemsida</h1>
+      <p class="tag location">Enmanskonsult baserad i Råsunda, Stockholm</p>
+    </header>
+
+    <main class="flex">
+      <div class="card">
+        <h2 class="card-title">Bakgrund</h2>
+          <ul> <li>Jag är en begynnande webdesigner som är intresserad av allt webrelaterat. 
+              <li>Jag har jobbat som projektledare inom tågindustrin och elektronikindustrin. Har varit kvalitetsingenjör och stöttat utländska företag i flera roller i samband med deras etablering i Sverige </li>
+              <li>Jag vill ta med min yrkeserfarenhet in i byggandet av websidor.</li>
+              <li>Jag är intresserad av att lära mig nytt och expandera mina förmågor i gränslandet mellan fordonsdokumentation och digitala plattformar. </li>
+              
+          </ul>
+        
+      </div> 
+
+      <div class="card">
+        <h2 class="card-title">Första målsättning</h2>
+        <p>Att bygga min projektportfölj med tio tio konkreta projekt med tillämpning av:</p>
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>Rails</li>
+        </ul>
+        
+      </div> 
+
+    </main>
+    
+    <footer>
+      <ul>
+        <li><a href="http://twitter.com/treehouse" target="_blank" class="social twitter">Twitter</a></li>
+        <li><a href="#" class="social linkedin">LinkedIn</a></li>
+        <li><a href="#" class="social github">Github</a></li>
+      </ul>
+      <p class="copyright">Copyright 2020, Peter Jonsson</p>
+    </footer>
+  </body>
+  
